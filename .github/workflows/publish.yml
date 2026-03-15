@@ -14,7 +14,7 @@ on:
       - "src/*.typ"
 
 env:
-  AUTHOR: Your_Name
+  AUTHOR: Toufiq
 
 # Sets permissions of the GITHUB_TOKEN to allow deployment to GitHub Pages
 permissions:
