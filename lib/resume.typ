@@ -114,7 +114,7 @@
   [== Projects]
   
   for p in projects {
-  p
+   p
   }
 
   [== Skills]
