@@ -131,6 +131,6 @@ skills-dict: (
     "Situational Awareness",
     "Calm under Pressure",
     "Professional Presence",
-    Accountability",
+    "Accountability",
     ),
 ),
