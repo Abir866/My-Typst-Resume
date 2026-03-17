@@ -4,36 +4,35 @@
 
 #resume.full(
   head: resume.header(
-    name: "Jane Doe",
-    address: "X1Y 2Z3, Toronto, ON, Canada",
+    name: "Toufiq Abir Farhan Tufan",
+    address: "X1Y 2Z3, Hslifax, ON, Canada",
     links: (
-      link("tel:+1 (647) 555-0199"),
-      link("mailto:jane.doe@example.com"),
-      link("https://example.dev", "example.dev"),
-      link("https://www.linkedin.com/in/janedoe/", "linkedin.com/in/janedoe"),
-      link("https://github.com/janedoe", "github.com/janedoe"),
+      link("tel:+1 (902) 817-8338"),
+      link("mailto:toufiqabir5@gmail.com"),
+      link("https://abir866.github.io/my-porfolio/", "my-porfolio"),
+      link("https://www.linkedin.com/in/toufiq-abir-farhan/", "linkedin.com/in/toufiq-abir-farhan"),
+      link("https://github.com/Abir866/", "github.com/Abir866"),
     ),
   ),
   profile: "Enthusiastic professional with expertise in Python, JavaScript, HTML/CSS, Git, Linux, and various standard tools and technologies. Completed internships in the software development industry and actively engages in creating open-source projects, demonstrating a commitment to continuous learning and creative problem-solving. Interested in DevOps and Cloud roles, seeking new opportunities.",
   education: (
     resume.education(
-      institution: "University of Toronto",
-      location: "Toronto, ON",
+      institution: "Saint Mary's University",
+      location: "Halifax, ON",
       program: "Bachelor of Science",
       major: "Computer Science",
-      start: "Sep 2021",
-      end: "Jan 2025",
+      start: "Sep 2020",
+      end: "Jan 2024",
       courses: (
-        "Artificial Intelligence",
-        "Data Structures and Algorithms",
-        "Software Engineering",
-        "Systems Security",
+        "Intercultural Studies",
+        "Intro to Computer Applications",
+        "Microeconomics",
       ),
     ),
   ),
   experience: (
     resume.experience(
-      company: "XYZ Tech Inc.",
+      company: "Atlantic superstore.",
       location: "Toronto, ON",
       role: "Software Developer Intern (co-op)",
       start: "Sep 2023",
