@@ -110,6 +110,12 @@
   for e in experience {
     e
   }
+  
+  [== Projects]
+  
+  for p in projects {
+  p
+  }
 
   [== Skills]
 
