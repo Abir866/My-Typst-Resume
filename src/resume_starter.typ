@@ -14,123 +14,97 @@
       link("https://github.com/Abir866/", "github.com/Abir866"),
     ),
   ),
-profile: "Detail-oriented and analytical professional with experience supporting administrative operations, coordinating processes, and maintaining accurate data across systems. Demonstrated ability to track workflows, identify gaps, and improve efficiency through structured organization and clear communication. Experienced in working with digital platforms and data management tools to support decision-making and operational accuracy. Strong interest in business analysis and CRM systems, with a growing focus on Salesforce consulting and data-driven problem solving.",
-
-
-education: (
-  resume.education(
-    institution: "Saint Mary's University",
-    location: "Halifax, NS",
-    program: "Bachelor of Science",
-    major: "Computer Science",
-    start: "Sep 2020",
-    end: "Jan 2024",
-    courses: (
-      "Intro to Computer Applications",
-      "Data Management",
-      "Microeconomics",
+  profile: "Enthusiastic professional with expertise in Python, JavaScript, HTML/CSS, Git, Linux, and various standard tools and technologies. Completed internships in the software development industry and actively engages in creating open-source projects, demonstrating a commitment to continuous learning and creative problem-solving. Interested in DevOps and Cloud roles, seeking new opportunities.",
+  education: (
+    resume.education(
+      institution: "Saint Mary's University",
+      location: "Halifax, ON",
+      program: "Bachelor of Science",
+      major: "Computer Science",
+      start: "Sep 2020",
+      end: "Jan 2024",
+      courses: (
+        "Intercultural Studies",
+        "Intro to Computer Applications",
+        "Microeconomics",
+      ),
     ),
   ),
-),
-
-
-experience: (
-  resume.experience(
-    company: "Atlantic Superstore",
-    location: "Halifax, NS",
-    role: "Customer Service Representative",
-    start: "Aug 2025",
-    end: "Present",
-    points: (
-      "Managed high-volume customer interactions by identifying needs and providing accurate solutions, demonstrating strong communication and problem-solving ability",
-      "Analyzed customer concerns to recommend appropriate products, improving service efficiency and customer satisfaction",
-      "Maintained organized workflow while handling multiple requests, ensuring timely and consistent service delivery",
-      "Adapted communication style based on customer behavior, strengthening engagement and service experience"
+  experience: (
+    resume.experience(
+      company: "Atlantic superstore.",
+      location: "Toronto, ON",
+      role: "Software Developer Intern (co-op)",
+      start: "Sep 2023",
+      end: "Dec 2023",
+      points: (
+        "Developed Javascript module to process user data for web applications using React and Node.js, ensuring efficient handling of concurrent requests",
+        "Collaborated in a dynamic team to implement key features for Client App 2, following agile development methodologies",
+        "Implemented test-driven development by creating unit and integration tests to ensure code reliability, running them in the CI/CD pipeline",
+        "Assisted in optimizing stream processor configuration to standardize variable names across the platform, avoiding conflicts",
+        "Conducted research on porting Docker container from x86 to ARM (Nvidia Jetson) for local deployment as an edge application"
+      ),
+    ),
+    resume.experience(
+      company: "ABC Solutions Ltd.",
+      location: "Hamilton, ON",
+      role: "Research Intern (co-op)",
+      start: "May 2023",
+      end: "Aug 2023",
+      points: (
+        "Developed a Python script for audio generation, playback, and logging to test underwater acoustic projectors in-house",
+        "Configured Raspberry Pi systems with Linux to develop and test the Acoustic Projector Control System",
+        "Implemented module to connect to private Signal K server and utilize its API to retrieve sensor data effectively",
+        "Created a framework for logging data from sensors, consuming it via API calls and storing it in an SQLite database"
+      ),
     ),
   ),
-
-  resume.experience(
-    company: "Saint Mary's University",
-    location: "Halifax, NS",
-    role: "Operations Assistant",
-    start: "Jan 2023",
-    end: "Apr 2024",
-    points: (
-      "Tracked student application and academic workflow data, ensuring accuracy and timely updates across systems",
-      "Coordinated communication between students, faculty, and administration to maintain alignment with deadlines and process requirements",
-      "Identified inconsistencies in submitted work through detailed data review, supporting compliance with academic standards",
-      "Supported process improvements by organizing information flow and ensuring accessibility of updated resources",
-      "Assisted in monitoring performance-related activities by tracking deadlines and consolidating evaluation inputs"
+  projects: (
+    resume.project(
+      name: "Nix Build System Enhancements",
+      lnk: "example.com/project1",
+      desc: "Enhanced the Nix package manager's build system by contributing to its documentation and creating scripts for automating common tasks, making the process more efficient for developers.",
+      skills: ("Nix", "Shell Scripting", "Documentation Tools"),
+    ),
+    resume.project(
+      name: "Programmatic Resume Generator",
+      lnk: "example.com/project2",
+      desc: "Created a web application that generates personalized resumes from user-provided data using Python and web development frameworks. The tool is built using Docker for deployment, allowing easy access through a public container app.",
+      skills: ("Python", "Docker", "Web Development", "CI/CD"),
+    ),
+    resume.project(
+      name: "Endless Runner Game",
+      lnk: "example.com/project3",
+      desc: "Developed a 2D side-scrolling endless runner game featuring unique characters and engaging gameplay. Built for Windows, Mac, Linux, and Desktop Web browsers using Unity and C#. The game showcases creative problem-solving skills in game development.",
+      skills: ("C#", "Unity", "Game Development"),
     ),
   ),
-
-  resume.experience(
-    company: "Saint Mary's University",
-    location: "Halifax, NS",
-    role: "Computing Science Tutor",
-    start: "Sep 2023",
-    end: "Jun 2024",
-    points: (
-      "Analyzed individual student learning needs and recommended structured approaches to improve understanding of technical concepts",
-      "Tracked student progress and engagement, using observations to adjust support strategies",
-      "Communicated complex topics in a simplified manner, improving comprehension and learning outcomes",
-      "Coordinated learning resources and sessions to ensure consistent academic progress"
+  skills-dict: (
+    "Technologies": (
+      "Python",
+      "Go",
+      "Nix",
+      "Docker",
+      "Git",
+      "Terraform",
+      "Azure",
+      "Kafka",
+      "MongoDB",
+      "MySQL",
+      "JavaScript",
+      "Java",
+      "C#",
+      "C/C++",
+    ),
+    "Interests": (
+      "Linux",
+      "Shell Scripting",
+      "Automation",
+      "Cloud",
+      "CI/CD",
+      "DevOps",
+      "Agile Development",
+      "Data Analytics",
     ),
   ),
-
-  resume.experience(
-    company: "Project-Based Experience",
-    location: "Halifax, NS",
-    role: "Administrative & Data Coordination Support",
-    start: "Sep 2022",
-    end: "Jul 2024",
-    points: (
-      "Prepared structured documentation including offer letters and onboarding materials, ensuring clarity and completeness of information",
-      "Coordinated onboarding workflows by tracking progress steps, setting up system access, and maintaining updated records",
-      "Maintained accurate data across systems by improving workflow processes to reduce inconsistencies",
-      "Analyzed feedback data and compiled reports highlighting trends and actionable insights",
-      "Supported role transitions by updating system permissions and aligning responsibilities with organizational structure"
-    ),
-  ),
-),
-
-
-projects: (
-  resume.project(
-    name: "Process Workflow Optimization (Academic Environment)",
-    lnk: "N/A",
-    desc: "Improved workflow tracking and communication processes by organizing data flow across multiple stakeholders, ensuring timely completion of tasks and reducing process gaps.",
-    skills: ("Process Improvement", "Data Tracking", "Coordination"),
-  ),
-
-  resume.project(
-    name: "Data Tracking & Reporting Framework",
-    lnk: "N/A",
-    desc: "Designed a structured approach to collect, organize, and report data for decision-making, improving visibility into performance and workflow progress.",
-    skills: ("Data Analysis", "Reporting", "Organization"),
-  ),
-),
-
-
-skills-dict: (
-  "Technologies": (
-    "Microsoft Excel",
-    "Microsoft Office",
-    "Data Management Systems",
-    "Basic CRM Understanding",
-  ),
-  "Core Skills": (
-    "Analytical Thinking",
-    "Problem Solving",
-    "Process Coordination",
-    "Data Accuracy",
-    "Communication",
-    "Attention to Detail",
-  ),
-  "Strengths": (
-    "Situational Awareness",
-    "Calm under Pressure",
-    "Professional Presence",
-    "Accountability",
-    ),
-),
+)
