@@ -111,12 +111,6 @@
     e
   }
 
-  [== Projects]
-
-  for p in projects {
-    p
-  }
-
   [== Skills]
 
   skills(entries: skills-dict)
