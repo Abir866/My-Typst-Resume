@@ -5,7 +5,7 @@
 #resume.full(
   head: resume.header(
     name: "Toufiq Abir Farhan Tufan",
-    address: "B3L 1J8, Hslifax, NS, Canada",
+    address: "B3L 1J8, HaFilifax, NS, Canada",
     links: (
       link("tel:+1 (902) 817-8338"),
       link("mailto:toufiqabir5@gmail.com"),
