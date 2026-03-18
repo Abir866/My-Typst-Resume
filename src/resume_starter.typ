@@ -14,7 +14,7 @@
       link("https://github.com/Abir866/", "github.com/Abir866"),
     ),
   ),
-  profile: "Reliable and observant security-focused professional with experience maintaining safety, monitoring environments, and enforcing compliance in residential and retail settings. Demonstrated ability to identify irregular activity, respond to incidents calmly, and maintain accurate reports using structured data systems. Known for maintaining a visible presence, supporting public safety, and delivering professional customer service in high-traffic environments.",
+  profile: "Passionate and solution driven customer service representative with over 3 years of expereince in customer service and sales in a client facing settings. Friendly , professional behaviour at every customer interactions, building rapport and driving results by making purchase recommendations. Present producta that not only meet customer needs but overall client get an expectional service through out the purchase process by guidig the customer at every step going above and beyond to make the interation feel personalised. Ability to utlize standard scripts and adapt communication to effectively solve customer inquiries. Document information to keep records for reference and access them as deemed by situation. Confident in using communication strategies that attract customers attention to the value company provides through respective products.",
 
 education: (
   resume.education(
