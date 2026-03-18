@@ -45,8 +45,7 @@ experience: (
       "Maintained a welcoming and professional presence by greeting tenants and guests, answering general inquiries about propert facilities, and providing clear directions within the property during viewing",
       "Observed high-risk areas in traffic hours and identified suspicious patterns of behaviour, escalating concerns promptly to maintain safety awareness",
       "Conducted identity and reference verification for new occupants while maintaining organized logs to ensure transparency and accountability",
-      "Control traffic flow into the parking area by taying aware of incomng and outgoing timings of vehicles to schedule passage at specific times to distribute traffic throughout the day and guiding
-      "vehicles with signals preventing jam in movement both ways",
+      "Control traffic flow into the parking area by taying aware of incomng and outgoing timings of vehicles to schedule passage at specific times to distribute traffic throughout the day and guiding vehicles with signals preventing jam in movement both ways",
       "Supported a positive living environment by addressing basic concerns from tenants and resolving issues or redirecting them to appropriate contacts"
     ),
   ),
@@ -60,8 +59,7 @@ experience: (
     points: (
       "Maintained a visible and active presence through regular patrols, ensuring compliance with safety and security procedures and identifying unattended risks",
       "Monitored CCTV systems across multiple areas, documenting timestamps and reporting suspicious or irregular activity for immediate response",
-      "Responded to emergency incidents like fire alarms by coordinating with security personnel using proper communication protocols to ensure controlled and calm resolution
-      "prioritizing quick initiation of on field procedures securing safety of people leading from the front",
+      "Responded to emergency incidents like fire alarms by coordinating with security personnel using proper communication protocols to ensure controlled and calm resolution prioritizing quick initiation of on field procedures securing safety of people leading from the front",
       "Delivered professional customer service by assisting visitors, providing directions, and addressing inquiries in a clear and respectful manner",
       "Spoke politely to disruptive indviduals to appeal to the person to listen the directions to leave premises direct without any escalation in public",
       "Documented security incidents, including unauthorized access and disturbances, producing clear reports to support follow-up investigations and fasten patch of vulnerablities"
