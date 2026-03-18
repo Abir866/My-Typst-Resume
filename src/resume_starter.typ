@@ -5,7 +5,7 @@
 #resume.full(
   head: resume.header(
     name: "Toufiq Abir Farhan Tufan",
-    address: "X1Y 2Z3, Hslifax, ON, Canada",
+    address: "B3L 1J8, Hslifax, NS, Canada",
     links: (
       link("tel:+1 (902) 817-8338"),
       link("mailto:toufiqabir5@gmail.com"),
@@ -23,7 +23,7 @@ education: (
     program: "Bachelor of Science",
     major: "Computer Science",
     start: "Sep 2020",
-    end: "Jan 2024",
+    end: "May 2024",
     courses: (
       "Intro to Computer Applications",
       "Data Management",

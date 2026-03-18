@@ -111,8 +111,6 @@
     e
   }
   
-  [== Projects]
-  
   for p in projects {
    p
   }
