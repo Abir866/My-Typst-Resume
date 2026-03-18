@@ -33,22 +33,6 @@ education: (
 ),
 
 experience: (
-  resume.experience(
-    company: "Rental Property",
-    location: "Halifax, NS",
-    role: "Residential Property Supervisor",
-    start: "Sep 2023",
-    end: "Aug 2025",
-    points: (
-      "Enforced property safety regulations by communicating policies to tenants and addressing recurring compliance issues, improving adherence to standards",
-      "Monitored entry points and controlled access by verifying visitors purpose,  and inspecting vehicles, preventing unauthorized entry and escorting identified personnel as guidance to respective destination",
-      "Maintained a welcoming and professional presence by greeting tenants and guests, answering general inquiries about propert facilities, and providing clear directions within the property during viewing",
-      "Observed high-risk areas in traffic hours and identified suspicious patterns of behaviour, escalating concerns promptly to maintain safety awareness",
-      "Conducted identity and reference verification for new occupants while maintaining organized logs to ensure transparency and accountability",
-      "Control traffic flow into the parking area by taying aware of incomng and outgoing timings of vehicles to schedule passage at specific times to distribute traffic throughout the day and guiding vehicles with signals preventing jam in movement both ways",
-      "Supported a positive living environment by addressing basic concerns from tenants and resolving issues or redirecting them to appropriate contacts"
-    ),
-  ),
 
   resume.experience(
     company: "Atlantic Superstore",
@@ -57,31 +41,70 @@ experience: (
     start: "Sep 2025",
     end: "Present",
     points: (
-      "Maintained a visible and active presence through regular patrols, ensuring compliance with safety and security procedures and identifying unattended risks",
-      "Monitored CCTV systems across multiple areas, documenting timestamps and reporting suspicious or irregular activity for immediate response",
-      "Responded to emergency incidents like fire alarms by coordinating with security personnel using proper communication protocols to ensure controlled and calm resolution prioritizing quick initiation of on field procedures securing safety of people leading from the front",
-      "Delivered professional customer service by assisting visitors, providing directions, and addressing inquiries in a clear and respectful manner",
-      "Spoke politely to disruptive indviduals to appeal to the person to listen the directions to leave premises direct without any escalation in public",
-      "Documented security incidents, including unauthorized access and disturbances, producing clear reports to support follow-up investigations and fasten patch of vulnerablities"
+      "Provide support to customer during solving product exchange issues by leadng converstation following a flow guide to ask relevant questions increasing efficiency to properly complete resolution procedure while adpating tone accordingly to make the interaction more humanly",
+      "Sold wide range of products from processed , fresh, frozen food items by understanding customer's travel needs and connecting the prodcct with features that stasfies the requirements thus providng personalizing customer experience",
+      "Offer additional complimentary products as recommendations that can improve the experience with the orginal product whereas keeping it customer's budget friendly",
+      "Communicated with customers in a friendly, natural manner, adapting to their energy and comfort level to ensure a positive and respectful interaction.",
+      "Convince customers to purchase a higher-end product by appealing to features that makes it better than other versions and more suited to meet clients expectations",
+    ),
+  ),
+  
+    resume.experience(
+    company: "Saint Mary's University",
+    location: "Halifax, NS",
+    role: "Computing Science Tutor",
+    start: "Sep 2023",
+    end: "Jun 2024",
+    points: (
+      "Clarified needs through guided questions to identify the purpose of each request, allowing accurate and personalized support",
+      "Tracked and followed up on open issues by maintaining records and checking resolution status, ensuring no cases were left unresolved",
+      "Multitasked effectively by managing multiple students, communication channels, and deadlines simultaneously, meeting service expectations in a fast-paced environment"
+    ),
+  ),
+    resume.experience(
+    company: "Saint Mary's University",
+    location: "Halifax, NS",
+    role: "Operations Assistant",
+    start: "Jan 2023",
+    end: "Apr 2024",
+    points: (
+      "Responded to high volumes of inbound email and call inquiries by actively listening, asking structured clarifying questions, and following standardized procedures, ensuring accurate resolution and positive service experiences aligned with customer satisfaction goals",
+      "Determined student needs by using question-and-answer techniques to understand student concerns and service expectations, allowing appropriate guidance and first-contact resolution",
+      "Greeted and engaged callers and faculty in a courteous, professional manner during live calls, building trust and maintaining a welcoming service environment",
+      "Processed requests accurately by documenting inquiry details, outcomes, and follow-ups in tracking systems, supporting case closure and service quality standards",
+      "Adhered to scripts and policies by communicating approved information when required, ensuring compliance with institutional standards and consistency in service delivery"
+    ),
+  ),
+    resume.experience(
+    company: "Saint Mary's University",
+    location: "Halifax, NS",
+    role: "Administrative & Data Coordination Support",
+    start: "Sep 2022",
+    end: "Jul 2024",
+    points: (
+      "Answered inquiries accurately by referencing internal documentation and knowledge bases, ensuring reliable and consistent responses to client questions",
+      "Researched options by gathering and validating client requirements, reviewing system capabilities, and comparing feasible solutions, enabling informed recommendations aligned with client expectations",
+      "Answered inquiries accurately by referencing internal documentation and knowledge bases, ensuring reliable and consistent responses to client questions",
+      "Documented transactions and updates by recording client decisions, changes, and approvals in project records for reference to support accurate execution by other teams and promote accountability."
     ),
   ),
 ),
 
 skills-dict: (
   "Core Skills": (
-    "Surveillance Monitoring (CCTV)",
-    "Incident Reporting",
-    "Access Control",
-    "Patrolling & Threat Detection",
-    "Attention to Detail",
-    "Conflict Awareness",
+    "Email & Phone Correspondance",
+    "Friendly and Professional Behaviour",
+    "Maintain knowledge base",
+    "Adherence to standard scripts",
+    "Production recommendations",
+    "Complimentary sales",
     "Customer Service",
-    "Communication",
+    "Relationship building",
   ),
   "Tools": (
-    "Electronic Reporting Systems",
-    "Security Monitoring Systems",
-    "Data Logging",
+    "Microsoft 365(Excel, Access database)",
+    "Content Management Software",
+    "Windows",
   ),
   "Strengths": (
     "Situational Awareness",
