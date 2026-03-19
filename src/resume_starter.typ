@@ -45,8 +45,22 @@ experience: (
       "Sold wide range of products from processed , fresh, frozen food items by understanding customer's travel needs and connecting the prodcct with features that stasfies the requirements thus providng personalizing customer experience",
       "Offer additional complimentary products as recommendations that can improve the experience with the orginal product whereas keeping it customer's budget friendly",
       "Communicated with customers in a friendly, natural manner, adapting to their energy and comfort level to ensure a positive and respectful interaction.",
-      "Convince customers to purchase a higher-end product by appealing to features that makes it better than other versions and more suited to meet clients expectations",
-      "Engaged with university students across various areas, faculty and level to understand their academic challenges, offering tailored subject matter advice and identifying opportunities for further enhancing their learning experience, which built trust and long-term satisfaction with tutoring services."
+      "Convince customers to purchase a higher-end product by appealing to features that makes it better than other versions and more suited to meet clients expectations"
+    ),
+  ),
+  
+    resume.experience(
+    company: "Saint Mary's University",
+    location: "Halifax, NS",
+    role: "Computing Science Tutor",
+    start: "Sep 2023",
+    end: "Jun 2024",
+    points: (
+      "Clarified needs through guided questions to identify the purpose of each request, allowing accurate and personalized support",
+      "Tracked and followed up on open issues by maintaining records and checking resolution status, ensuring no cases were left unresolved",
+      "Multitasked effectively by managing multiple students, communication channels, and deadlines simultaneously, meeting service expectations in a fast-paced environment",
+      "Guided students with their assignments by breaking down the problem into manageable steps allowing them to understand the solution as they complete the task accurately.",
+      "Engaged with university students across various areas, faculty and level to understand their academic challenges, offering tailored subject matter advice and identifying opportunities for further enhancing their learning experience, which built trust and long-term satisfaction with tutoring services.",
       "Anticipated the need for scheduling multiple tutoring sessions at crucial times by following up  by phone calls to inquire about the student’s course materials and exam schedules. Planned and managed online Microsoft Team meetings in advance for facilitating the student’s preparations and maximizing the student’s results",
       "Guided students in their study program based on previous academic experience including planning courses to take each semester under which professor at the university that best aligns with their career goals and rewarding learning experience",
       "Worked one-on-one with individual students from various faculty and levels, conducting orientations to discuss their goals, strengths, and weaknesses in specific topics of the course. Evaluated their needs to create tailored strategies that allows them to appreciate learning helping them succeed in meeting their objectives",
@@ -63,21 +77,6 @@ experience: (
       "Deployed targeted outlook follow-up email campaigns to student after every tutoring session, reviewing discussed topics, sharing additional learning materials, track progress, maintaining student engagement in the course - retaining all students over 2 years while expanding the group through referrals",
       "Maintaining orderliness and tidiness of workspaces at the end of each tutoring session prevents any disruptions in commencing upcoming meetings and creates an welcoming impression",
       "Assist student training through encouraging pursue of certifications, book and schedule meetings with industry professionals, assign access to courses for introductory training, tracking attendance and send follow-up emails to nurture student growth by attaining applicable skills"
-    ),
-  ),
-  
-    resume.experience(
-    company: "Saint Mary's University",
-    location: "Halifax, NS",
-    role: "Computing Science Tutor",
-    start: "Sep 2023",
-    end: "Jun 2024",
-    points: (
-      "Clarified needs through guided questions to identify the purpose of each request, allowing accurate and personalized support",
-      "Tracked and followed up on open issues by maintaining records and checking resolution status, ensuring no cases were left unresolved",
-      "Multitasked effectively by managing multiple students, communication channels, and deadlines simultaneously, meeting service expectations in a fast-paced environment",
-      "Guided students with their assignments by breaking down the problem into manageable steps allowing them to understand the solution as they complete the task accurately.",
-      "
     ),
   ),
     resume.experience(
@@ -126,7 +125,7 @@ experience: (
       "Supporting the department head throughout the student application intake process by logging in timeline data to track the progress in procedural steps and updating individuals through email to ensure steps are followed",
       "Support teammates performance review life cycle by tracking group activity towards the scheduled deadline of a team project using team management software, completed member evaluation document and coordinate with managers timely to get the pending reports submitted that provide insights into performance of members and relay that as goal for next period",
       "Assisted in client registration service into the course as guide to filling out forms with necessary details, clarifying documents to be signed, retaining and sharing copies of documents to students for reference, and correspond with students during the intake process with updates needed to access the course content as a commitment to provide  smooth onboarding service experience",
-      "Performed receptionist duties for staff, professors, students with welcoming attitude and positive interpersonal skills to direct individuals to appropriate departments, hand out appropriate materials for pickup and note down any requests, prioritizing for immediate action.",
+      "Performed receptionist duties for staff, professors, students with welcoming attitude and positive interpersonal skills to direct individuals to appropriate departments, hand out appropriate materials for pickup and note down any requests, prioritizing for immediate action."
       
 
     ),
@@ -145,7 +144,7 @@ experience: (
       "Worked one-on-one with the client to deliver a sales-pitch style presentation suggesting new product features, sharing product knowledge to ensure her clarity of its potential to enhance the product's engagement for younger audiences",
       "Visited the client’s conservation site to understand its unique offerings and develop strategies to enhance the website’s content, effectively showcasing the natural products and historical significance of the area to attract potential stakeholders and drive her sales; strengthening the region’s  preservation",
       "Identified trends in user reports of software online service recovery request incidents and after investigation finding the unwarned server program shutdown to be the root cause. Proactively recommended the development team to implement a visible maintenance error message to users as a solution, avoiding  reoccurrences of related complaints entirely",
-      "Addressed client’s insights about software upgrade and offered guidance following standard procedure necessary to streamline the client’s feature  request process  to the development team elevating her customer experience"
+      "Addressed client’s insights about software upgrade and offered guidance following standard procedure necessary to streamline the client’s feature  request process  to the development team elevating her customer experience",
       "Recognized risk scenarios associated where feature change requests pending under the client profile, impacting project delivery dates, immediately escalating details to the client service team to trigger a review confirming risks and mitigation strategies before software development commences",
       "Maintained software feature quality and production targets of number of features ensuring the software requirements agreement defined by the business are met, full-filling expectations",
       "Assisted with the on-boarding of new teammates for the software project by setting up individual accounts to one workspace platform , upgrading working devices’ for running the project locally and syncing access to limited server resources for effective collaboration",
@@ -178,7 +177,7 @@ experience: (
       "Responsible for updating student profiles on course management software based on an improved process workflow that synchronizes central student data changes on the software automatically to update grade sheet thus maintaining an accurate employee record across different platforms ",
       "Support team member transfers and promotion time to time in the development team with new delegations, assign new responsibilities and permissions under appropriate reporting manager, link to new training that aids in transition ",
       "Assist in welcoming new members into the society, going through each eligible benefit like insurance, in one-on-one sessions, gathering necessary details related to agreement forms to administer the perks while answering questions that improves understanding the importance for each benefit enrolment ",
-      "Prepare client feedback reports as guideline to focus development efforts on specific areas for the team, through relevant data collection and organization that are clearly highlighted in the document compiling impact metrics with actionable suggestions",
+      "Prepare client feedback reports as guideline to focus development efforts on specific areas for the team, through relevant data collection and organization that are clearly highlighted in the document compiling impact metrics with actionable suggestions"
     ),
   ),
 ),
